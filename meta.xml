@@ -1,0 +1,5 @@
+<meta>
+	<info author="Crew" type="script" name="Crew araba yıkama sistemi" />
+	<script src="crew_aracyika.lua" type="client" cache="false" />
+	<script src="crew_arac.lua" type="server" />
+</meta>
